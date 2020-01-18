@@ -1,5 +1,5 @@
 <?php 
-class listele extend Controller
+class listele extends Controller
 {
     public function __construct()
     {
