@@ -33,7 +33,6 @@ class kayit extends Controller  {
 
 	$this->view->goster("form/sonuc",$this->form->error);
 	else:
-	
 $sonuc=$this->model->kontrolet("ogrenci",array("ad","soyad","yas"),array($ad,$soyad,$yas));
 
 	
