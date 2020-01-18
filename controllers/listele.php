@@ -13,6 +13,6 @@ class listele extends Controller
 
 }
 
-
+}
 
 ?>
