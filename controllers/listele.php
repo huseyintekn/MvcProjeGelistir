@@ -7,7 +7,7 @@ class listele extends Controller
       
       $this->Modelyukle('listele');
 
-    
+
 
     }
 
