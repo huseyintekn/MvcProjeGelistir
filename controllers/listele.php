@@ -7,6 +7,7 @@ class listele extends Controller
       
       $this->Modelyukle('listele');
 
+        $degisken="Huseyin";
     }
 
 }
